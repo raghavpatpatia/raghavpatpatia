@@ -7,7 +7,7 @@
 
 - 📫 Reach me at [raghav.patpatia@gmail.com](mailto:raghav.patpatia@gmail.com).
 
-- 📄 Check out my portfolio for more about my experiences: [raghavpatpatia.wixsite.com/raghav-s-portfolio](https://raghavpatpatia.wixsite.com/raghav-s-portfolio).
+- 📄 Check out my portfolio for more about my experiences: [raghavpatpatia.wixsite.com/raghav-portfolio](https://raghavpatpatia.wixsite.com/raghav-portfolio).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
