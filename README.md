@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Raghav Patpatia</h1>
 <h3 align="center">Passionate Game Developer & Programmer</h3>
 
-- 🔭 Currently learning Multiplayer in Unity using NetCode with GameObjects. 
+- 🔭 Currently learning Multiplayer programming in Unity. 
 
 - 👨‍💻 Explore my projects on [GitHub](https://github.com/raghavpatpatia).
 
